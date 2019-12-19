@@ -105,7 +105,7 @@ $kt-state-colors: (
         inverse: #111111
     ),
     danger: (
-        base: #fd397a,
+        base: #E22229,
         inverse: #ffffff
     )
 ) !default;
@@ -234,3 +234,8 @@ $kt-page-container-width: 1380px !default;
 
 // Custom Scroll(Perfect Scrollbar) size
 $kt-custom-scroll-size: 4px !default;
+
+// fix css
+.mat-form-field,.mat-form-field-infix{
+    font-size: 14px;
+}
