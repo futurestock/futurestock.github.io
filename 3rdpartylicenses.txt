@@ -116,6 +116,9 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
+@angular/platform-browser-dynamic
+MIT
+
 @angular/router
 MIT
 
