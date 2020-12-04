@@ -18907,7 +18907,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/zone.js/dist/zone-legacy.js");
 
     module.exports = __webpack_require__(
-    /*! E:\Project\ais-poc\projects\vms-admin\src\polyfills.ts */
+    /*! E:\Project\ais-poc\projects\vms-site\src\polyfills.ts */
     "./src/polyfills.ts");
     /***/
   }
